@@ -3,7 +3,8 @@
 ## What it is
  - a cad marble run
  - 3d printable
- - several custom parts
+ - custom parts
+ - includes a funnel, staircase, and plinko track
 ## how it was made:
  - using onshape for cad.
 ## screenshots
